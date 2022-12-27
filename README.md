@@ -1,2 +1,3 @@
 # kml-speed-limit
-Guess the speed limit distribution from a KML file
+
+Gather speed statistics data out of a KML file.
